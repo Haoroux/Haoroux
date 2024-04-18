@@ -3,7 +3,7 @@
 🇧🇪🇧🇷
 - 🔭 I work on a lot of differents projects, take a look if you want.
 - 📫 How to reach me: Haoroux on discord
-- I code on :  
+- 🖥 I code on :  
 [![Platform](https://skillicons.dev/icons?i=linux,debian,windows,raspberrypi)](https://skillicons.dev)  
 
 
@@ -15,3 +15,4 @@
 
 [![visit](https://visitcount.itsvg.in/api?id=Haoroux&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 (help to grow it pls 🥺)
+
