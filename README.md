@@ -19,9 +19,8 @@
 
 I like 🐱 (> dog),   
 🎮 I like to get all the achievements of games too ([My steam](https://steamcommunity.com/id/Haoroux/))  
-and obvously I code a lot 
-I create a lot of discord bot,  
-but I’m currently watching project that I can code in other language than python 🐍
+and obvously I code a lot , mainly discord bots  
+but I'm currently watching for project I can code in other language than python 🐍
 
 ## 🎯 My objectives: 
 -finish at least two tasks in tasks panel 🏁   
@@ -34,7 +33,7 @@ but I’m currently watching project that I can code in other language than pyth
 -❌generative art  
 -❌ascii cam/convertor  
 -❌tamadochi discord bot  
--✅Make nothing of the day(not sure of this one)  
+-✅Do nothing of the day(not sure about this one)  
 ps:it's normal if for some there is not even a repository
 
 ## 📊 Github Stats:  
@@ -42,6 +41,6 @@ ps:it's normal if for some there is not even a repository
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoroux&show_icons=true&theme=transparent)  
 
 [![visit](https://visitcount.itsvg.in/api?id=Haoroux&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)  
-(help to grow these stats pls 🥺)  
+(help me to grow these stats pls 🥺)  
 The rest is just below  
 ⬇️ ⬇️ ⬇️ ⬇️
