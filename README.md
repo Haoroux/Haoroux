@@ -22,10 +22,10 @@ I like 🐱 (> dog),
 and obvously I code a lot , mainly discord bots  
 but I'm currently watching for project I can code in other language than python 🐍
 
-## 🎯 My objectives: 
+## 🎯 My objectives before 2025: 
 -finish at least two tasks in tasks panel 🏁   
 -Get at least 5 github badge 🏅  
--get more than 3 stars on a project ⭐  
+-get more than 10 stars in total ⭐  
 
 ### 💡 Tasks panel:
 -❌V2.0 Emubot  
