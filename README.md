@@ -30,9 +30,11 @@ but I'm currently watching for project I can code in other language than python 
 ### 💡 Tasks panel:
 -❌V2.0 Emubot  
 -❌Finish rpl  
--❌generative art  
--❌ascii cam/convertor  
--❌tamadochi discord bot  
+-▶️Generative art  
+-❌Ascii cam/convertor  
+-❌Tamagotchi discord bot  
+-❌Github current act API
+-❌Alarm clock
 -✅Do nothing of the day(not sure about this one)  
 ps:it's normal if for some there is not even a repository
 
