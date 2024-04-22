@@ -4,7 +4,7 @@
 - ⚙️ I work on a lot of different projects, take a look if you want.
 - 🤙 How to reach me: Haoroux on Discord
 - 🖥 I code on:  
-[![Platform](https://skillicons.dev/icons?i=linux,debian,windows,raspberrypi)](https://skillicons.dev)  
+[![Platform](https://skillicons.dev/icons?i=linux,mint,windows,raspberrypi)](https://skillicons.dev)  
 
 
 ## 😎 I can code in these different languages:  
