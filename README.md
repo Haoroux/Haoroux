@@ -33,8 +33,8 @@ but I'm currently watching for project I can code in other language than python 
 -▶️Generative art  
 -❌Ascii cam/convertor  
 -❌Tamagotchi discord bot  
--❌Github current act API
--❌Alarm clock
+-❌Github current act API  
+-❌Alarm clock  
 -✅Do nothing of the day(not sure about this one)  
 ps:it's normal if for some there is not even a repository
 
