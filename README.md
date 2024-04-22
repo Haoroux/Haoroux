@@ -42,7 +42,6 @@ ps:it's normal if for some there is not even a repository
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoroux&show_icons=true&theme=transparent)  
 
-[![visit](https://visitcount.itsvg.in/api?id=Haoroux&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 (help me to grow these stats pls 🥺)  
 The rest is just below  
 ⬇️ ⬇️ ⬇️ ⬇️
