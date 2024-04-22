@@ -41,7 +41,6 @@ ps:it's normal if for some there is not even a repository
 ## 📊 Github Stats:  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoroux&show_icons=true&theme=transparent)  
-
 (help me to grow these stats pls 🥺)  
 The rest is just below  
 ⬇️ ⬇️ ⬇️ ⬇️
