@@ -1,6 +1,6 @@
 # 🔎About me🔎
 
-🇧🇪🇧🇷 Hey my name is Haoroux!!!
+🇧🇪 Hey my name is Haoroux!!! 🇧🇷
 - ⚙️ I work on a lot of different projects, take a look if you want.
 - 🤙 How to reach me: Haoroux on Discord
 - 🖥 I code on:  
@@ -28,9 +28,9 @@ but I'm currently watching for project I can code in other language than python 
 -get more than 10 stars in total ⭐  
 
 ### 💡 Tasks panel:
--❌V2.0 Emubot  
--❌Finish rpl  
--▶️Generative art  
+-❌[V2.0 Emubot](https://github.com/Haoroux/EmuBot)  
+-❌[Finish rpl  ](https://github.com/Haoroux/rpl)  
+-▶️[Generative art ](https://github.com/Haoroux/generatif-art)  
 -❌Ascii cam/convertor  
 -❌Tamagotchi discord bot  
 -❌Github current act API  
