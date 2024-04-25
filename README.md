@@ -10,6 +10,7 @@
 ## 😎 I can code in these different languages:  
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,python,bots,js,html,css,cs,cpp,arduino,raspberrypi,unity)](https://skillicons.dev)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoroux&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 📚 **Currently learning**
 
@@ -40,7 +41,7 @@ ps:it's normal if for some there is not even a repository
 
 ## 📊 Github Stats:  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoroux&show_icons=true&theme=transparent)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoroux&show_icons=true&theme=one_dark_pro)  
 (help me to grow these stats pls 🥺)  
 The rest is just below  
 ⬇️ ⬇️ ⬇️ ⬇️
