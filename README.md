@@ -9,7 +9,7 @@
 
 ## 😎 I can code in these different languages:  
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,python,bots,js,html,css,cs,cpp,arduino,raspberrypi,unity)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,python,bots,js,html,css,cs,cpp,arduino,raspberrypi,unity,excel)](https://skillicons.dev)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoroux&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 📚 **Currently learning**
@@ -19,9 +19,15 @@
 ## 🙃 About me:
 
 I like 🐱 (> dog),   
-🎮 I like to get all the achievements of games too ([My steam](https://steamcommunity.com/id/Haoroux/))  
+🎮 I like to get all the achievements of games too  
 and obvously I code a lot , mainly discord bots  
 but I'm currently watching for project I can code in other language than python 🐍
+
+🔗**Important links**🔗:  
+Steam:[My steam](https://steamcommunity.com/id/Haoroux/)  
+My programmer friends:  
+-[Energ1boy](https://github.com/Energ1boy)  
+-[tictaclab](https://github.com/tictaclab-org)
 
 ## 🎯 My objectives before 2025: 
 -finish at least two tasks in tasks panel 🏁   
