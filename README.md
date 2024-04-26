@@ -37,7 +37,7 @@ My programmer friends:
 ### 💡 Tasks panel:
 -❌[V2.0 Emubot](https://github.com/Haoroux/EmuBot)  
 -❌[Finish rpl  ](https://github.com/Haoroux/rpl)  
--▶️[Generative art ](https://github.com/Haoroux/generatif-art)  
+-✅[Generative art ](https://github.com/Haoroux/generatif-art)  
 -❌Ascii cam/convertor  
 -❌Tamagotchi discord bot  
 -❌Github current act API  
