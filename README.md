@@ -9,7 +9,7 @@
 
 ## 😎 I can code in these different languages:  
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,discord,python,bots,js,html,css,cs,cpp,arduino,raspberrypi,unity,ps)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=vscode,discord,python,bots,js,html,css,cs,cpp,arduino,raspberrypi,unity,ps,p5js)](https://skillicons.dev)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoroux&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 📚 **Currently learning**
