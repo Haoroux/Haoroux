@@ -42,7 +42,6 @@ My programmer friends:
 -❌Tamagotchi discord bot  
 -❌Github current act API  
 -❌Alarm clock  
--❌Minecraft datapack  
 -✅Do nothing of the day(not sure about this one)  
 ps:it's normal if for some there is not even a repository
 
