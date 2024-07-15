@@ -26,8 +26,8 @@ but I'm currently watching for project I can code in other language than python 
 🔗**Important links**🔗:  
 Steam:[My steam](https://steamcommunity.com/id/Haoroux/)  
 My programmer friends:  
--[Energ1boy](https://github.com/Energ1boy)  
--[tictaclab](https://github.com/tictaclab-org)
+-🐈[Energ1boy](https://github.com/Energ1boy)🐈  
+-🤖[tictaclab](https://github.com/tictaclab-org)🤖
 
 ## 🎯 My objectives before 2025: 
 -finish at least two tasks in tasks panel 🏁   
