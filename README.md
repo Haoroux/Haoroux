@@ -16,14 +16,7 @@
 
 [![Learning Skills](https://skillicons.dev/icons?i=blender,lua,godot)](https://skillicons.dev)
 
-## 🙃 About me:
-
-I like 🐱 (> dog),   
-🎮 I like to get all the achievements of games too  
-and obvously I code a lot , mainly discord bots  
-but I'm currently watching for project I can code in other language than python 🐍
-
-🔗**Important links**🔗:  
+## 🔗**Important links**🔗:  
 My programmer friends:  
 -🐈[Energ1boy](https://github.com/Energ1boy)🐈  
 -🤖[tictaclab](https://github.com/tictaclab-org)🤖  
