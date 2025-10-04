@@ -29,20 +29,18 @@ My programmer friends:
 -🤖[tictaclab](https://github.com/tictaclab-org)🤖  
 Steam:[My steam](https://steamcommunity.com/id/Haoroux/)  
 
-## 🎯 My objectives before 2025: 
--finish at least two tasks in tasks panel 🏁   
--Get at least 5 github badge 🏅  
--get more than 10 stars in total ⭐  
+## 🎯 My objectives before the end of the year: 
+-Make some good projects
+-Keep learning
+-Upgrade my skills
 
 ### 💡 Tasks panel:
+-✅[Generative art ](https://github.com/Haoroux/generatif-art)  
+-✅Ascii cam/convertor  
+-❌Productivity timer
 -❌[V2.0 Emubot](https://github.com/Haoroux/EmuBot)  
 -❌[Finish rpl  ](https://github.com/Haoroux/rpl)  
--✅[Generative art ](https://github.com/Haoroux/generatif-art)  
--❌Ascii cam/convertor  
--❌Tamagotchi discord bot  
--❌Github current act API  
--❌Alarm clock  
--✅Do nothing of the day(not sure about this one)  
+-❌Github current activity API  
 ps:it's normal if for some there is not even a repository
 
 ## 📊 Github Stats:  
