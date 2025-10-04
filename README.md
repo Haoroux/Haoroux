@@ -34,11 +34,9 @@ Steam:[My steam](https://steamcommunity.com/id/Haoroux/)
 -❌[V2.0 Emubot](https://github.com/Haoroux/EmuBot)  
 -❌[Finish rpl  ](https://github.com/Haoroux/rpl)  
 -❌Github current activity API  
-ps:it's normal if for some there is not even a repository
 
 ## 📊 Github Stats:  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haoroux&show_icons=true&theme=one_dark_pro)  
-(help me to grow these stats pls 🥺)  
 The rest is just below  
 ⬇️ ⬇️ ⬇️ ⬇️
