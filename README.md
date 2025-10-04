@@ -30,14 +30,14 @@ My programmer friends:
 Steam:[My steam](https://steamcommunity.com/id/Haoroux/)  
 
 ## 🎯 My objectives before the end of the year: 
--Make some good projects
--Keep learning
--Upgrade my skills
+-Make some good projects  
+-Keep learning  
+-Upgrade my skills  
 
 ### 💡 Tasks panel:
 -✅[Generative art ](https://github.com/Haoroux/generatif-art)  
 -✅Ascii cam/convertor  
--❌Productivity timer
+-❌Productivity timer  
 -❌[V2.0 Emubot](https://github.com/Haoroux/EmuBot)  
 -❌[Finish rpl  ](https://github.com/Haoroux/rpl)  
 -❌Github current activity API  
